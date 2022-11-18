@@ -1,0 +1,36 @@
+.child-div{
+    margin: 40px;
+}
+
+input{
+    height: 2em;
+    width: 300px
+}
+
+button{
+    margin-left: -80px;
+    display: inline;
+}
+
+h3{
+    display: inline;
+}
+
+.delete-btn{
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.edit-btn{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.eachItem{
+    margin-top: 20px;
+    border: 1px solid black;
+    width: 300px;
+    margin-left: 500px;
+    background-color: plum;
+    color: aliceblue;
+    box-sizing: border-box;
+}
